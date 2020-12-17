@@ -11,5 +11,5 @@ module.exports = {
     },
     "filters": {},
     "metalsmith": {},
-    "completeMessage": "请按以下步骤启动，耐心等待:\\n\\n  {{^inPlace}}cd {{destDirName}}\\n  {{/inPlace}}npm i\\n  vue ui 或者 npm run server"
+    "completeMessage": "请按以下步骤启动，耐心等待:\n \n  {{^inPlace}}cd {{destDirName}}\n  {{/inPlace}}npm i\n  vue ui 或者 npm run server"
 }
